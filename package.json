@@ -1,0 +1,23 @@
+{
+  "name": "login-screen-bootstrap5",
+  "version": "1.0.0",
+  "description": "Sample Bootstrap 5 alpha 1 project created to test bootstrap 5",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bootstrap5-alpha1",
+    "bootstrap5"
+  ],
+  "author": "learningmode",
+  "license": "MIT",
+  "dependencies": {
+    "@popperjs/core": "^2.4.2",
+    "bootstrap": "^5.0.0-alpha1",
+    "bootstrap-icons": "^1.0.0-alpha5"
+  },
+  "devDependencies": {
+    "sass": "^1.26.9"
+  }
+}
